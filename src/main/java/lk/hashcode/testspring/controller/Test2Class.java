@@ -14,5 +14,9 @@ public class Test2Class {
         System.out.println("sign up created!!");
     }
 
+    public void authService(){
+        signupMethod();
+    }
+
 
 }
