@@ -10,4 +10,9 @@ public class Test2Class {
         System.out.println("test2 Method");
     }
 
+    public void signupMethod(){
+        System.out.println("sign up created!!");
+    }
+
+
 }
